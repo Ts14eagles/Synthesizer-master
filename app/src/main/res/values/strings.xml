@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="button1">F Button</string>
+    <string name="button2">E Button</string>
+    <string name="button3">Ch3 Button</string>
+    <string name="button4">Ch4 Button</string>
+    <string name="button5">Twinkle Button</string>
+    <string name="button6">Ch12 Button</string>
+    <string name="numberpicker">Note Picker</string>
+    <string name="numberpicker3">Amount Picker</string>
+</resources>
